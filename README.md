@@ -2,6 +2,7 @@
 Pada repositori ini, dijelaskan perbedaan antara pendekatan Functional Programming dengan Object Oriented Programming dengan menggunakan bahasa Pemrograman Python sebagai TUGAS 1 Mata Kuliah PBO (Pemrograman Berorientasi Objek)
 
 Nama : Diodo Arrahman
+
 NPM  : G1A022027
 
 Pertanyaan :
